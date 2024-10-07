@@ -13,3 +13,7 @@ The paper [Evaluating Cell Processes, Quality, and Biomarkers in Pluripotent Ste
 
 # Second Model 
 ## Dataset 
+ - **RNA sequences of stem cells** from [the European Nucleotide Archive](https://www.ebi.ac.uk/ena/browser/view/ERR914288)
+ - **Protein sequences** from the [Uniprot Database](https://www.uniprot.org/)
+## Second Model Pipeline
+![arch](https://github.com/user-attachments/assets/eedfd982-b479-49f0-b446-7b25fe95f125)
