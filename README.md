@@ -1,4 +1,4 @@
-# Stem_cell_project
+# Stem cell project
 ![Alt text](https://bioinformant.com/wp-content/uploads/2017/08/What-are-stem-cells-definition-FEATURE-.jpg)
 # Business Understanding 
 ## Introduction 
