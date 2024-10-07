@@ -1,6 +1,5 @@
 # Stem cell project
 ![Alt text](https://bioinformant.com/wp-content/uploads/2017/08/What-are-stem-cells-definition-FEATURE-.jpg)
-# Business Understanding 
 ## Introduction 
 The discovery of embryonic stem cells (ESCs) offered the potential for regenerative therapies but faced ethical concerns and the risk of immune rejection. In 2006, Shinya Yamanaka developed induced pluripotent stem cells (iPSCs), solving ethical issues and reducing immune rejection risks by reprogramming adult cells. However, iPSCs introduced challenges like inefficiencies, genetic abnormalities, and tumorigenesis risks.
 # First Model 
