@@ -18,5 +18,4 @@ The paper [Evaluating Cell Processes, Quality, and Biomarkers in Pluripotent Ste
  - **Protein sequences** from the [Uniprot Database](https://www.uniprot.org/)
 ## Second Model Pipeline
 ![arch](https://github.com/user-attachments/assets/eedfd982-b479-49f0-b446-7b25fe95f125)
-### Top contributors:
 
